@@ -27,7 +27,7 @@ To get started with this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/project-name.git
+   git clone https://github.com/dangkyle64/simulate_room_web
    ```
 
 2. **Install dependencies for the frontend**:
