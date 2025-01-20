@@ -9,11 +9,10 @@ export async function getServerSideProps() {
     };
 };
 
-export default async function Home() {
+export default function Home() {
 
-    const data = await fetchRestData({ data });
     console.log('The data:', data);
-    
+
     return (
         <div>
             <h1>Data from Rest Backend</h1>
